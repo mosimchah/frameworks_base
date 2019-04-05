@@ -145,4 +145,7 @@
 
     <!-- min height for gesture action start -->
     <integer name="config_navgestureswipestart">20</integer>
+
+    <!-- Shows the required view for in-display fingerprint -->
+    <bool name="config_supportsInDisplayFingerprint">false</bool>
 </resources>

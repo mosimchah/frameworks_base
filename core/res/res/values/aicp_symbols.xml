@@ -208,4 +208,7 @@
 
   <!-- OP Gestures -->
   <java-symbol type="integer" name="config_navgestureswipestart" />
+
+  <!-- In-display Fingerprint -->
+  <java-symbol type="bool" name="config_supportsInDisplayFingerprint" />
 </resources>
